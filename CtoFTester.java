@@ -7,4 +7,7 @@ public class CtoFTester {
     return (f - 32.0)*(5.0/9.0);
   }
 
+  public static void main(String args[]) {
+    
+  }
 }
